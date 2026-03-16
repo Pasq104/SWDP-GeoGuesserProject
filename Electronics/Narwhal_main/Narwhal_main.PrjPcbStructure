@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Microcontroller.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Microcontroller.SchDoc|FileName=Peripherals.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Microcontroller.SchDoc|FileName=Power.SchDoc|SheetNumber=3
