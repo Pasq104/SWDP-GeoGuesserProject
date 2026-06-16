@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\Users\pghd3\Desktop\poli\SWDP\Project\Electronics\GEO_GUESSER_PROJECT_Finale\GEO_GUESSER_PROJECT_Finale\Project Outputs for GEO_GUESSER_PROJECT_FINALE\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/06/26
+Time:       14:35
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                   Layer       Footprint                     Center-X(mil) Center-Y(mil) Rotation Description                                                                                  
+C4         CGA2B3X7R1E224K050BE      TopLayer    CAPC1005X60N                  1880.512      1233.307      0        "Cap Ceramic 0.22uF 25V X7R 10% Pad SMD 0402 Soft Termination 125C Automotive T/R"           
+CONN1      BM29B0.6-24DS/2-0.35V(51) BottomLayer HRS_BM29B0.6-24DS/2-0.35V(51) 2039.528      1165.551      90       "26 (24 + 2 Power) Position Connector Receptacle, Center Strip Contacts Surface Mount Gold"  
+IC2        IIS2MDC                   TopLayer    Magnetometer                  1860.236      1144.842      180      ""                                                                                           
+IC1        LSM6DSV16BXTR             TopLayer    PQFN50P250X300X74-14N         1840.000      1355.000      270      "Accelerometer, Gyroscope, Temperature, 6 Axis Sensor I²C, I3C℠, SPI Output"              
+R2         RE0402FRE0710KL           TopLayer    RESC1005X37N                  1960.000      1387.008      270      "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" 
+R1         RE0402FRE0710KL           TopLayer    RESC1005X37N                  2010.000      1385.000      270      "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" 
+C6         VJ0402G104KXQCW1BC        TopLayer    C100nF_-_VJ0402G104KXQCW1BC   1753.110      1190.000      0        ""                                                                                           
+C5         VJ0402G104KXQCW1BC        TopLayer    C100nF_-_VJ0402G104KXQCW1BC   1860.000      1060.000      180      ""                                                                                           
+C3         CC0805KRX5R6BB106         TopLayer    C10uf_-_CC0805KRX5R6BB106     1750.000      1086.496      270      ""                                                                                           
+C2         VJ0402G104KXQCW1BC        TopLayer    C100nF_-_VJ0402G104KXQCW1BC   1781.929      1260.000      0        ""                                                                                           
+C1         VJ0402G104KXQCW1BC        TopLayer    C100nF_-_VJ0402G104KXQCW1BC   1755.000      1373.110      270      ""                                                                                           

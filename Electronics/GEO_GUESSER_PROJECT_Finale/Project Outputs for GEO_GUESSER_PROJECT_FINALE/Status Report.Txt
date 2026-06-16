@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [GEO_GUESSER_PROJECT_FINALE.PrjPcb]
+   Generated File[Bill of Materials-GEO_GUESSER_PROJECT_FINALE.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:35:35 On 16/06/2026
