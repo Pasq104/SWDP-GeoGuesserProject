@@ -1,8 +1,0 @@
-Remove Pin=R2-2 From Net=I2C3_SCL_1V8
-Change Component Footprint: Designator=C1 Old Footprint=C100nF - VJ0402G104KXQCW1BC New Footprint=CAPC1005X55N
-Change Component Footprint: Designator=C2 Old Footprint=C100nF - VJ0402G104KXQCW1BC New Footprint=CAPC1005X55N
-Change Component Comment: Designator=C1 Old Comment=VJ0402G104KXQCW1BC New Comment=CAPC1005X55N
-Change Component Comment: Designator=C2 Old Comment=VJ0402G104KXQCW1BC New Comment=CAPC1005X55N
-Add Pin To Net: Pin=R2-2 Old Net=I2C3_SCL_1V8 New Net=I2C3_SDA_1V8
-Change Pin Designator/Name:  Old Designator=C5-1 Old Name=1 New Designator =2 New Name=2
-Change Pin Designator/Name:  Old Designator=C5-2 Old Name=2 New Designator =1 New Name=1

@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -36,10 +36,6 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=EB58EB46-DEDA-4A61-B100-94220917455F
-VaultGUID=7E1CDFBF-7A59-47EC-9C9E-E0FB2E1B034B
-ReleaseVaultName=Fabio Cambedda
-ItemGUID=EB58EB46-DEDA-4A61-B100-94220917455F
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
