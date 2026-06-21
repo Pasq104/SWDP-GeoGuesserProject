@@ -13,14 +13,13 @@ The project integrates hardware and software components to build an interactive 
 ```
 .
 ├── electronics/
-│   ├── materials/      # Datasheets, component documentation, and reference material
-│   └── pcb/            # PCB design files (Altium)
+│   ├── materials/                      # Datasheets, component documentation, and reference material
+│   └── GEO_GUESSER_PROJECT_Finale/     # PCB design files (Altium)
 │
-├── software/           # Source code and software components
+├── software/                           # Source code and software components
 │
-├── docs/               # Documentation, reports, and project notes
 │
-└── README.md           # Project overview
+└── README.md                           # Project overview
 ```
 
 ---
@@ -46,20 +45,9 @@ The **software** directory contains the code used to run the project system.
 
 This may include:
 
-* firmware
+* MCU firmware
 * application logic
-* interfaces and communication protocols
-
----
-
-## Documentation
-
-The **docs** folder includes project documentation such as:
-
-* design decisions
-* technical notes
-* development reports
-* diagrams and explanations
+* link to demonstration video
 
 ---
 
@@ -77,13 +65,19 @@ The goal of this project is to design and develop a system that:
 
 * **Git & GitHub** – version control
 * **Altium Designer** – PCB design
-* **Markdown** – documentation
+* **STM32CubeMX** - MCU programming
+* **C** - MCU firmware
+* **Flutter** - App firmware
 
 ---
 
 ## Contributors
 
-* **Pasq104**
+* **Pasquale Ludovico Ignarra**
+* **Fabio Cambedda**
+* **Alessandro Lima**
+* **Sofia Capozzi del Pozo**
+* **Andrea Toselli**
 
 ---
 
